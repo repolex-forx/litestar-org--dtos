@@ -1,0 +1,11 @@
+{
+  "org": "litestar-org",
+  "repo": "dtos",
+  "versions": [
+    {
+      "commit": "2ddd4a6cf4455421e03ec61e907891ce24048272",
+      "tag": "",
+      "parsed_at": "2026-10-11T21:53:38.161030+00:00"
+    }
+  ]
+}
